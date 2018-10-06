@@ -1,0 +1,120 @@
+body {
+    font-size: 16px;
+}
+.columna1 {
+    background-color:#c9d6ef;
+    padding-top: 5%;
+    margin-left: 10%;
+}
+
+.columna1, .columna2, .columna3{
+    padding-left:5%;
+    margin-top:10%;
+    
+}
+
+.columna2{
+    padding-left:15px;
+    padding-top:0;
+
+}
+.columna3{
+  padding-left:2%;
+  margin-right:10%;
+}
+
+#pinnedtweet{
+    background-color:white;
+    padding-left: 3%;
+}
+#barracentral{
+    padding-left:0;
+}
+
+
+li{
+    list-style-type:none;
+    text-align:left;
+}
+
+h3.enlinea{
+    font-size:12px;
+}
+
+.enlinea{
+    font-size: 16px;
+    display: inline-block;
+ 
+}
+
+h1.enlinea{
+    color: #32a1f2;
+    font-size: 20px;
+
+}
+
+
+.container {
+    background-color: white;
+    margin-bottom:5%;
+    
+}
+
+section{
+    margin-right:4%;
+    display:inline;
+}
+
+.thousand{
+    width:60px;
+    height: 60px;
+}
+
+.general{
+    background-color:#dee7f9;
+    margin-top:4%;
+}
+.radius {
+    border-radius: 50%;
+   
+}
+.radiusfloat {
+    border-radius: 50%;
+    float:left;
+}
+h1{
+    font-size:16px;
+}
+
+h2{
+    font-size:12px;
+}
+.recomendaciones{
+    border-bottom: solid 1px black;
+
+}
+.button{
+    margin-left:30%;
+}
+
+.aside{
+    margin-bottom:4%;
+    background-color: white;
+    padding-left:4%;
+    padding-top:5%;
+}
+
+
+li.trends{
+    color: #afbcd6;
+}
+
+ul{
+    padding-left:4%;
+}
+
+ul.listado li:last-child {
+
+}
+
+
